@@ -1,13 +1,10 @@
-# Testera
+# Juicy Planet KG
+1230 - Wien - Österreich
 
-* hola
+Premium Vending
+* Getränkeautomaten
+* Snackautomaten
+* Kaffeeautoaten
 
-## what
-
-<!DOCTYPE html>
-<html>
-<body>
-Hello world - this is it!
-</body>
-
-</html>
+**contact**
+office@juicyplanet.at
